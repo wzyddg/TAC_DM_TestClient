@@ -13,6 +13,7 @@
 		55E905C51B90ED5900E3653A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 55E905C31B90ED5900E3653A /* Main.storyboard */; };
 		55E905C71B90ED5900E3653A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 55E905C61B90ED5900E3653A /* Assets.xcassets */; };
 		55E905CA1B90ED5900E3653A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 55E905C81B90ED5900E3653A /* LaunchScreen.storyboard */; };
+		55E905D31B90F13900E3653A /* AsyncSocket.m in Sources */ = {isa = PBXBuildFile; fileRef = 55E905D21B90F13900E3653A /* AsyncSocket.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		55E905C61B90ED5900E3653A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		55E905C91B90ED5900E3653A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		55E905CB1B90ED5900E3653A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		55E905D11B90F13900E3653A /* AsyncSocket.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AsyncSocket.h; path = Lib/AsyncSocket.h; sourceTree = "<group>"; };
+		55E905D21B90F13900E3653A /* AsyncSocket.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AsyncSocket.m; path = Lib/AsyncSocket.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +77,8 @@
 		55E905BA1B90ED5900E3653A /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				55E905D11B90F13900E3653A /* AsyncSocket.h */,
+				55E905D21B90F13900E3653A /* AsyncSocket.m */,
 				55E905BB1B90ED5900E3653A /* main.m */,
 			);
 			name = "Supporting Files";
@@ -152,6 +157,7 @@
 				55E905C21B90ED5900E3653A /* ViewController.m in Sources */,
 				55E905BF1B90ED5900E3653A /* AppDelegate.m in Sources */,
 				55E905BC1B90ED5900E3653A /* main.m in Sources */,
+				55E905D31B90F13900E3653A /* AsyncSocket.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -298,6 +304,7 @@
 				55E905D01B90ED5900E3653A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
