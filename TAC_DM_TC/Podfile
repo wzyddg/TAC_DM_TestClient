@@ -1,0 +1,12 @@
+platform :ios, "8.4"
+use_frameworks!
+
+
+target 'TAC_DM_TC' do
+pod 'CocoaAsyncSocket' 
+end
+
+target 'TAC_DM_TCTests' do
+
+end
+

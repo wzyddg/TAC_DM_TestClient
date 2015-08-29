@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BF4BF09D-1147-455C-B582-32E3675873FB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TAC_DM_TC</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>86A6E1C9FFEC4B347031FD2130FC883FC6480B48</key>
+		<string>https://github.com/wzyddg/TAC_DM_TestClient.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TAC_DM_TC/TAC_DM_TC.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>86A6E1C9FFEC4B347031FD2130FC883FC6480B48</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/wzyddg/TAC_DM_TestClient.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>86A6E1C9FFEC4B347031FD2130FC883FC6480B48</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>86A6E1C9FFEC4B347031FD2130FC883FC6480B48</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TAC_DM_TestClient</string>
+		</dict>
+	</array>
+</dict>
+</plist>

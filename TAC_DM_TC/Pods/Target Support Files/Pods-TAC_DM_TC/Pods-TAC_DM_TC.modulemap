@@ -1,0 +1,6 @@
+framework module Pods_TAC_DM_TC {
+  umbrella header "Pods-TAC_DM_TC-umbrella.h"
+
+  export *
+  module * { export * }
+}
